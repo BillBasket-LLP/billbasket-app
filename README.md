@@ -38,7 +38,14 @@ emulation. No additional runtime needed — the installer bundles everything.
 ### Android & ChromeOS
 
 **Android 12 (or newer)** phones and tablets, and **Chromebooks** that support
-Android apps. APK sideload available on request; Play Store listing soon.
+Android apps.
+
+| Version | Date | Download |
+|---------|------|----------|
+| 1.1.0 | 2026-06-26 | [BillBasket-1.1.0.apk](releases/1.1.0/android/BillBasket-1.1.0.apk) |
+
+Sideload: download the APK, then allow "Install unknown apps" for your browser/files
+app when prompted. Play Store listing soon.
 
 ---
 
