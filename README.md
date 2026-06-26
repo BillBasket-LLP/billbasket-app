@@ -23,7 +23,7 @@ BillBasket is a complete billing solution built for small and medium shops in In
 
 ## Download
 
-### Windows (x64)
+### Windows
 
 **[Browse all releases →](https://billbasket-llp.github.io/billbasket-app/releases/)**
 
@@ -31,11 +31,14 @@ BillBasket is a complete billing solution built for small and medium shops in In
 |---------|------|----------|
 | 1.1.0 | 2026-06-26 | [BillBasket-Setup-1.1.0.exe](https://accounts.billbasket.app/downloads/1.1.0/BillBasket-Setup-1.1.0.exe) |
 
-**System requirements:** Windows 10/11 (64-bit). No additional runtime needed — the installer bundles everything.
+**System requirements:** Windows 10/11 (64-bit) — **Intel, AMD, or ARM**. The
+installer runs natively on Intel/AMD and on Windows-on-ARM via built-in x64
+emulation. No additional runtime needed — the installer bundles everything.
 
-### Android
+### Android & ChromeOS
 
-Coming soon on the Play Store. APK sideload available on request.
+**Android 12 (or newer)** phones and tablets, and **Chromebooks** that support
+Android apps. APK sideload available on request; Play Store listing soon.
 
 ---
 
