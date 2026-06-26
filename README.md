@@ -29,7 +29,7 @@ BillBasket is a complete billing solution built for small and medium shops in In
 
 | Version | Date | Download |
 |---------|------|----------|
-| 1.0.83 | 2026-06-26 | [BillBasket-Setup-1.0.83.exe](https://accounts.billbasket.app/downloads/1.0.83/BillBasket-Setup-1.0.83.exe) |
+| 1.1.0 | 2026-06-26 | [BillBasket-Setup-1.1.0.exe](https://accounts.billbasket.app/downloads/1.1.0/BillBasket-Setup-1.1.0.exe) |
 
 **System requirements:** Windows 10/11 (64-bit). No additional runtime needed — the installer bundles everything.
 
@@ -41,7 +41,7 @@ Coming soon on the Play Store. APK sideload available on request.
 
 ## Installation (Windows)
 
-1. Download `BillBasket-Setup-1.0.83.exe` from the table above.
+1. Download `BillBasket-Setup-1.1.0.exe` from the table above.
 2. Run the installer — it does not require administrator rights.
 3. On first launch, create a PIN and set up your store. No account needed to start.
 4. Optional: sign up at [accounts.billbasket.app](https://accounts.billbasket.app) to enable cloud backup and cross-device access.
