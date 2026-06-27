@@ -31,6 +31,10 @@ BillBasket is a complete billing solution built for small and medium shops in In
 |---------|------|----------|
 | 1.1.0 | 2026-06-26 | [BillBasket-Setup-1.1.0.exe](https://accounts.billbasket.app/downloads/1.1.0/BillBasket-Setup-1.1.0.exe) |
 
+> **Microsoft Store (recommended, coming soon):** BillBasket is being published to
+> the Microsoft Store, where it installs with one click and no security warnings.
+> <!-- STORE_LINK: replace with https://apps.microsoft.com/detail/<ProductId> once live -->
+
 **System requirements:** Windows 10/11 (64-bit) — **Intel, AMD, or ARM**. The
 installer runs natively on Intel/AMD and on Windows-on-ARM via built-in x64
 emulation. No additional runtime needed — the installer bundles everything.
